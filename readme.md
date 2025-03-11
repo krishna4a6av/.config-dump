@@ -10,6 +10,6 @@
 
 #For zsh
 1. zsh
-2. change the shell ```chash -s ($which zsh)
-3. oh my shell
+2. change the shell ```chash -s $(which zsh)
+3. oh my shell going with default of zsh
 
